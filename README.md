@@ -1,1 +1,1 @@
-# notas-escolar
+# notas-escolares
